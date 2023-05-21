@@ -12,7 +12,7 @@ Comme vu dans la page précédente, lancer le programme et y accéder en cliquan
 
 <iframe src="https://replit.com/@Zelbinium/Messages?embed=true" width="500" height="360"></iframe>
 
-Tout en bas, les icônes suivnates sont affichées :
+Tout en bas, les icônes suivantes sont affichées :
 
 ![Zone à cliquer pour afficher le code QR](./ShareAreaOpeningQRCode.png)
 
