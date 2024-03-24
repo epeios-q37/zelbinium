@@ -1,3 +1,8 @@
-# Source code of the *Zelbinium* applications
+# *zelbinium-docs*
 
-You will find here the source code used for the https://replit.com/@Zelbinium *repl*s, which are used for the https://zelbinium.q37.info web site.
+Documents related to the *Zelbinium* project.
+
+The *site* folder contains the pages of the *Zelbinium* website https://zelbinium.q37.info. License: [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
+The *code* folder contains the source code of the applications on the *Zelbinium* web site. License: [MIT](https://opensource.org/license/mit).
+
