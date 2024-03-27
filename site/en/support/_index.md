@@ -17,7 +17,7 @@ aliases: ["/en/donate"]
 
 <br/>
 
-With *Zelbinium*, your kids will use their smartphones to create original content that they can easily share via social media, limiting their exposure to the all-too-frequently inappropriate content propagated by the latter.
+With *Zelbinium*, your children will use their smartphones and their imagination to create original content, eagerly sharing it with their peers and limiting their exposure to the usual smartphone-related risks.
 
 <br/>
 
@@ -67,57 +67,39 @@ With *Zelbinium*, your kids will use their smartphones to create original conten
 
 <br/>
 
----
+<hr style="height: 5px;"/>
 
-Are you afraid your child is spending too much time on his/her smartphone? Are you worried about addiction, or about exposing him/her to the all-too-often dramatic [drifts](https://en.wikipedia.org/wiki/Cyberbullying) that make the headlines?
+Are you afraid your children are spending too much time on their smartphone? Are you worried about addiction, or about exposing them to the all-too-often dramatic [risks](https://en.wikipedia.org/wiki/Cyberbullying) that make the headlines?
 
 ![](./Cyberharcelement.jpeg)
 
-*Zelbinium* is the easiest way for your kids to create real [connected applications](https://en.wikipedia.org/wiki/Web_application), accessible via a [QR code](https://en.wikipedia.org/wiki/Web_application) or a simple link sent by [e-mail](https://en.wikipedia.org/wiki/Email) or [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging).
+*Zelbinium*, by making it easy for them to create true [connected applications](https://en.wikipedia.org/wiki/Web_application) <u>for</u> and <u>with</u> their smartphones, provides our young people with a particularly attractive alternative to video games and social networks. What's more, unlike the latter, *Zelbinium* appeals to their creativity and thus presents little risk of addiction.
 
-These applications are usable <u>on</u> smartphones, and can be created <u>with</u> a smartphone, which makes *Zelbinium* particularly attractive to young people, prompting them to spend less time on video games or social media. Unlike the latter, *Zelbinium* stimulates your children's creativity and therefore doesn't present the same risks of addiction.
-
-What's more, by making their creations easily accessible via social media, *Zelbinium* also changes the nature of our children's exchanges, and will clean up their content, reducing the risk of cyberbullying.
+Better still, by making these applications accessible via a [QR code](https://en.wikipedia.org/wiki/QR_code), as well as a simple link that can be transmitted by [e-mail](https://en.wikipedia.org/wiki/Email) or [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), *Zelbinium* also improves the nature of the exchanges our children have with each other, thus reducing the risk of harassment.
 
 ![](./SafeSocialMedia.jpeg)
 
-The l[anguage used in *Zelbinium*](https://en.wikipedia.org/wiki/Python_(programming_language)) is widely used in professional and educational fields. The knowledge acquired with *Zelbinium* can be used by your children outside *Zelbinium*, during their studies or in their future professional lives.
+The technologies used with *Zelbinium* are extremely widespread and well documented. Easy to use, they are also very well suited to handle images, sounds, videos, music, animations... Your children will be able to give free rein to their imagination in a wide range of fields.
 
-*Zelbinium* is also based on [web technologies](https://en.wikipedia.org/wiki/HTML5), which are extremely widespread and well-documented, able to manage images, sounds, videos, music, animations... Therefore, *Zelbinium* will also enable your children to unleash their creativity in fields other than programming.
-
-Several children can work together on the same application. Depending on their affinities, some will be in charge of programming, others of sound, still others of graphics... allowing them to discover teamwork while having fun.
+Several children can thus work together on the same application. Depending on their preferences, some will be in charge of programming, others of sound, still others of graphics... allowing them to discover teamwork while having fun, thus strengthening their bonds with their peers.
 
 ![](./Collaboration.jpeg)
 
-Thanks to *Zelbinium*, your children will develop programming skills and digital literacy in general, while strengthening their bonds with their peers through group work.
-
-In today's ubiquitous digital world, the knowledge acquired in this way will be useful to your children in both their personal and professional lives, whether or not their profession is directly linked to IT.
-
-![](./DigitalEverywhere.jpeg)
-
-What makes it unique is the ease with which *Zelbinium* lets you create and share smartphone-adapted applications, enabling users to interact easily each from their own smartphone.
-
-*Zelbinium*'s uniqueness is only possible thanks to the use of the [*Atlas* toolkit](https://atlastk.org/), a world-class innovation in cloud computing, and is [*libre* software](https://en.wikipedia.org/wiki/Free_software).
-
-![](./FreeCloudComputing.jpeg)
-
 This website shows, through its [*Action!*](../action/) section, how, in just a few clicks, launch, share, explore, modify and create an application using your smartphone.
 
-The [*Inspiration*](../inspiration/) section of the same site gives examples of applications that can be directly accessed and modified by following the instructions in the *Action!* section.
+Its [*Inspiration*](../inspiration/) section gives examples of applications that can be directly accessed and modified by following the indications in the *Action!* section.
 
-All the applications on *Zelbinium* are suitable not only for smartphones, but also for tablets and personal computers. No reason not to get started right away!
+*Zelbinium* can be used not only on smartphones, but also on tablets and personal computers. All the more reason to get started now!
 
 ![](./GetStarted.jpeg)
 
-As a software engineer, I developed the *Atlas* toolkit in my spare time, but my mainly technical skills, my availability and my financial means are no longer sufficient. Between renting servers and bandwidth, the resources needed to promote the project and to define and develop tools to facilitate the use of *Zelbinium* in actions aimed at young people... your support is just essential to ensure the lasting and development of *Zelbinium*.
+*Zelbinium* is only possible thanks to a particularly innovative and ambitious use of *cloud computing*. Between the cost of renting servers and bandwidth, the resources needed to publicize the project and to develop tools to make *Zelbinium* more widely available to young people... your [support](#support) is just essential to keep *Zelbinium* going and developing.
 
-You can also help by spreading the word about *Zelbinium*, especially to those who work with your children. This project is also an opportunity to share moments of complicity with your child, by accompanying him or her as they discover *Zelbinium*.
+You can also help by spreading the word about *Zelbinium*, especially to those who work with your children. This project is also an opportunity to share moments of complicity with your children, by accompanying them as they discover *Zelbinium*.
 
 ![](./Complicity.jpeg)
 
-Other projects dedicated to digital inclusion are currently being studied, and are only possible thanks to the service at the heart of *Zelbinium*, because nothing else like it exists in the world.
-
-Together, let's build a healthier digital environment for our children, and offer them new career opportunities in a rapidly expanding field.
+**No longer let smartphones poison your relationship with your children nor jeopardize their well-being:**.
 
 <div style="margin-bottom: 10px; background-color: green; font-size: larger; padding: 10px;">
   <span style="display: flex; width: 100;">

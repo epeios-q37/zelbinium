@@ -15,7 +15,7 @@ aliases: ["/fr/donate"]
 
 <br/>
 
-Avec *Zelbinium*, vos enfants utiliseront leur smartphone et leur imagination pour créer des contenus originaux qu'ils s'empresseront de partager avec leurs camarades, limitant ainsi leur exposition aux habituelles dérives liées à leur utilisation du smartphone.
+Avec *Zelbinium*, vos enfants utiliseront leur smartphone et leur imagination pour créer des contenus originaux, s'empressant de les partager avec leurs camarades et limitant ainsi leur exposition aux habituelles dérives liées à leur utilisation du smartphone.
 
 <br/>
 
@@ -81,9 +81,9 @@ En outre, en rendant leurs réalisations facilement accessibles via les média s
 
 -->
 
-*Zelbinium*, en leur facilitant la création de véritables [applications connectées](https://fr.wikipedia.org/wiki/Application_web) <u>pour</u> et <u>avec</u> leur smartphone, constitue pour nos jeunes une alternative particulièrement attractive aux jeux vidéos et aux réseaux sociaux. En outre, contrairement à ces derniers, *Zelbinium* fait appel à leur créativité et présente ainsi peu de risques d'addiction.
+*Zelbinium*, en leur facilitant la création de véritables [applications connectées](https://fr.wikipedia.org/wiki/Application_web) <u>pour</u> et <u>avec</u> leur smartphone, constitue pour nos jeunes une alternative particulièrement attractive face aux jeux vidéos et aux réseaux sociaux. En outre, contrairement à ces derniers, *Zelbinium* fait appel à leur créativité et présente ainsi peu de risques d'addiction.
 
-Mieux encore, en rendant ces applications accessibles via un [code QR](https://fr.wikipedia.org/wiki/Code_QR), mais aussi un simple lien transmissible par messagerie [électronique](https://fr.wikipedia.org/wiki/Courrier_%C3%A9lectronique) ou [instantanée](https://fr.wikipedia.org/wiki/Messagerie_instantan%C3%A9e), *Zelbinium* améliore également la nature des échanges qu'entretiennent nos enfants et en assainira le contenu, réduisant les risques de harcèlements.
+Mieux encore, en rendant ces applications accessibles via un [code QR](https://fr.wikipedia.org/wiki/Code_QR), mais aussi un simple lien transmissible par messagerie [électronique](https://fr.wikipedia.org/wiki/Courrier_%C3%A9lectronique) ou [instantanée](https://fr.wikipedia.org/wiki/Messagerie_instantan%C3%A9e), *Zelbinium* améliore également la nature des échanges qu'entretiennent nos enfants, réduisant ainsi les risques de harcèlements.
 
 
 ![](./SafeSocialMedia.jpeg)
@@ -96,9 +96,9 @@ Le [langage utilisé dans *Zelbinium*](https://fr.wikipedia.org/wiki/Python_(lan
 Plusieurs enfants pourront ainsi travailler ensemble sur la même application. Selon leurs affinités, certains s'occuperont de la programmation, d'autres de la partie sonore, d'autres encore du graphisme… leur permettant de découvrir le travail en équipe tout en s'amusant.
 -->
 
-Les technologies utilisées sont extrêmement répandues et abondamment documentées. Faciles à mettre en œuvre, elles sont également capables de prendre en charge images, sons, vidéos, musiques, animations… De ce fait, avec *Zelbinium*, vos enfants pourront laisser libre cours à leur imagination dans de nombreux domaines.
+Les technologies utilisées avec *Zelbinium* sont extrêmement répandues et abondamment documentées. Faciles à mettre en œuvre, elles n'en sont pas moins capables de prendre en charge images, sons, vidéos, musiques, animations… De ce fait, vos enfants pourront laisser libre cours à leur imagination dans de nombreux domaines.
 
-Plusieurs enfants pourront ainsi travailler ensemble sur une même application. Selon leurs affinités, certains s'occuperont de la programmation, d'autres de la partie sonore, d'autres encore des graphismes… leur permettant de découvrir le travail en équipe tout en s'amusant, renforçant ainsi leurs liens avec leurs camarades.
+Plusieurs enfants pourront ainsi travailler ensemble sur une même application. Selon leurs préférences, certains s'occuperont de la programmation, d'autres de la partie sonore, d'autres encore des graphismes… leur permettant de découvrir le travail en équipe tout en s'amusant, renforçant ainsi leurs liens avec leurs camarades.
 
 ![](./Collaboration.jpeg)
 
@@ -119,7 +119,7 @@ La section [*Action !*](../action/) de ce site montre comment, en quelques clic
 
 Sa section [*Inspiration*](../inspiration/) donne des exemples d'applications directement accessibles et modifiables en suivant les indications de la section *Action !*.
 
-*Zelbinium* est utilisable sur smartphone, mais également sur tablette et ordinateur personnel. Rien ne s'oppose à se lancer dés à présent !
+*Zelbinium* est utilisable sur smartphone, mais également sur tablette et ordinateur personnel. Autant de raisons pour se lancer dés à présent !
 
 ![](./GetStarted.jpeg)
 
@@ -129,7 +129,7 @@ Ingénieur logiciel, j'ai développé le toolkit *Atlas* sur mon temps libre mai
 Vous pouvez également contribuer en faisant connaître *Zelbinium* autour de vous, notamment à ceux qui interviennent auprès de vos enfants. Ce projet est également l'occasion de partager des moments de complicité avec votre enfant, en l'accompagnant dans sa découverte de *Zelbinium*.
 -->
 
-*Zelbinium* n'est possible que grâce à une une utilisation particulièrement innovante et ambitieuse du *cloud computing*. Entre la location des serveurs et de la bande passante, les ressources nécessaires pour faire connaître le projet ainsi que pour mettre au point les outils facilitant la mise en œuvre de *Zelbinium* dans des actions à destination des jeunes… votre [soutien](#support) est juste indispensable pour pérenniser et développer *Zelbinium*.
+*Zelbinium* n'est possible que grâce à une une utilisation particulièrement innovante et ambitieuse du *cloud computing*. Entre la location des serveurs et de la bande passante, les ressources nécessaires pour faire connaître le projet ainsi que pour mettre au point les outils facilitant la diffusion de *Zelbinium* auprès des jeunes… votre [soutien](#support) est juste indispensable pour pérenniser et développer *Zelbinium*.
 
 Vous pouvez également contribuer en faisant connaître *Zelbinium* autour de vous, notamment à ceux qui interviennent auprès de vos enfants. Ce projet est également une opportunité unique de partager des moments de complicité avec vos enfants, en les accompagnant dans leur découverte de *Zelbinium*.
 
