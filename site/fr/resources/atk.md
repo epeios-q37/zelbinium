@@ -34,5 +34,5 @@ Même exercice avec le module *EduTK* :
 <link rel="stylesheet" type="text/css" href="/common.css"/>
 <script src="/common.js"></script>
 
-<link rel="stylesheet" type="text/css" href="/.css"/>
-<script src="/.js"></script>
+<link rel="stylesheet" type="text/css" href="/atk.css"/>
+<script src="/atk.js"></script>
