@@ -17,7 +17,7 @@ weight: 1
 <div>
   <div id="rotate-words">  
     <div>Passer au niveau supérieur !</div>
-    <div>Utiliser ses propres applications !</div>
+    <div>Créer ses propres applications !</div>
   </div>
 </div>
 
