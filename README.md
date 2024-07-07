@@ -1,5 +1,7 @@
 # *Zelbinium*
 
+**Against the harmful effects of video games and social media on our children!**
+
 Rather than using their smartphones for social media or video games, *Zelbinium* gives our teenagers the opportunity to use their smartphones to create their own applications.
 
 Not only does *Zelbinium* give them access to an activity with little risk of addiction, it also makes it easy for them to share their creations, giving them the opportunity to forge bonds with their peers that limit the risk of harassment.
