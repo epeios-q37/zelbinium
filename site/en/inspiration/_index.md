@@ -72,9 +72,12 @@ The classic card game also known as 21 (This version doesn't have splitting or i
 
 -->
 
-## *Pig game* (`PigGame`)
+## *Pig game* (`PigGame`, with sound)
 
 A multi-player version of the [Pig game](https://en.wikipedia.org/wiki/Pig_(dice_game)#Gameplay).
+
+**Warning: this game features sound effects!**
+
 
 <div data-demo="PigGame"></div>
 

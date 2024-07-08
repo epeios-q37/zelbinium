@@ -98,7 +98,11 @@ Zelbinium is operational on smartphones (*Android* and *iOS*), but also on table
 
 No application to install, no account to create: *Zelbinium* is the fastest and most effective way to protect your children from the harmful influence of social networks and video games.
 
-**Against the harmful effects of video games and social media on our children:**
+<p>
+  <center>
+    <strong>Against the harmful effects of video games and social media on our children:</strong>
+  </center>
+</p>
 
 <div style="margin-bottom: 10px; background-color: green; font-size: larger; padding: 10px;">
   <span style="display: flex; width: 100;">

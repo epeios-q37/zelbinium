@@ -96,7 +96,11 @@ Profitez de précieux moments de complicité avec vos enfants en les accompagnan
 
 Ni application à installer, ni compte à créer : *Zelbinium* est le moyen le plus efficace et le plus rapide pour préserver vos enfants de l'influence néfaste des médias sociaux et des jeux vidéos.
 
-**Contre les effets néfastes des jeux vidéos et des médias sociaux sur nos enfants :**
+<p>
+  <center>
+    <strong>Contre les effets néfastes des jeux vidéos et des médias sociaux sur nos enfants :</strong>
+  </center>
+</p>
 
 <div style="margin-bottom: 10px; background-color: green; font-size: larger; padding: 10px;">
   <span style="display: flex; width: 100;">

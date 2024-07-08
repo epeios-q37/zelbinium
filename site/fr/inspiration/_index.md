@@ -75,9 +75,11 @@ Le jeu du [*blackjack*](https://fr.wikipedia.org/wiki/Blackjack_(jeu)).
 
 -->
 
-## *Pig game* (`PigGame`)
+## *Pig game* (`PigGame`, avec son)
 
 Le célèbre jeu de dés.
+
+**Attention : ce jeu comporte des effets sonores !**
 
 <!--
 À chaque tour, un joueur lance plusieurs fois un dé jusqu'à ce qu'il obtienne un 1 ou qu'il décide d'attendre :
