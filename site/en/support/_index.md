@@ -20,7 +20,7 @@ aliases: ["/en/donate"]
 
 -->
 
-With *Zelbinium*, your kids will give free rein to their imagination by creating with their smartphone contents to share with their friends, limiting the risk of dependency and harassment.
+By encouraging them to use their imagination to create their own content, and by making it easy for them to share this content with their pals, *Zelbinium* preserves your children from the addictions associated with smartphone use, while fostering an environment that prevents the risk of harassment.
 
 <br/>
 
@@ -72,35 +72,33 @@ With *Zelbinium*, your kids will give free rein to their imagination by creating
 
 <hr style="height: 5px;"/>
 
-Are you afraid your children are spending too much time on their smartphone? Do you fear addiction or that this will have dramatic repercussions for them?
+Are you afraid your children are spending too much time on their smartphone? Do you fear addiction or that this will have other dramatic repercussions for them?
 
 ![](./Cyberharcelement.jpeg)
 
-By providing access to the only application in the world that enables users to quickly and easily create true [connected applications](https://en.wikipedia.org/wiki/Web_application) <u>with</u> and <u>for</u> their smartphone, *Zelbinium* offers young people a particularly attractive alternative to video games and social media, with little risk of addiction.
+By providing access to the only application in the world that enables quick and easy creation of true [connected applications](https://en.wikipedia.org/wiki/Web_application) <u>with</u> and <u>for</u> their smartphone, *Zelbinium* offers young people a particularly attractive alternative to video games and social media, while being considerably less addictive.
 
-Additionally, as these applications are easily shareable via an ordinary [QR code](https://en.wikipedia.org/wiki/QR_code) or a simple link sent by [e-mail](https://en.wikipedia.org/wiki/Email) or [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), *Zelbinium* will give them the opportunity to multiply interactions with their fellows, allowing them to better know each other, and thus reducing the risk of harassment.
+These applications being easily shareable via an ordinary [QR code](https://en.wikipedia.org/wiki/QR_code) or a simple link sent by [e-mail](https://en.wikipedia.org/wiki/Email) or [instant messaging](https://en.wikipedia.org/wiki/Instant_messaging), *Zelbinium* will give them the opportunity to multiply interactions with their pals, allowing them to get to know and appreciate each other better, and thus reducing the risk of harassment.
 
 ![](./SafeSocialMedia.jpeg)
 
-The technologies used with *Zelbinium* are extremely widespread and well documented. Easy to use, they are also very well suited to handle images, sounds, videos, music, animations... Your children will be able to give free rein to their imagination in a wide range of fields.
+The langages used with *Zelbinium* are extremely widespread and well documented. Easy to use, they are also very well suited to handle images, sounds, videos, music, animations... Your children will be able to give free rein to their imagination in a wide range of fields.
 
-Several children can thus work together on the same application. Depending on their preferences, some will be in charge of programming, others of sound, still others of graphics... allowing them to discover teamwork while having fun, thus strengthening their bonds with their peers.
+Several children can thus collaborate on the same application. Depending on their preferences, some will be in charge of programming, others of sound, still others of graphics... allowing them to discover teamwork while having fun, thus strengthening their bonds with their peers.
 
 ![](./Collaboration.jpeg)
 
-Relying on a particularly innovative use of cloud computing, the financing of the resources essential to *Zelbinium*'s operation is only possible with your [support](#support). Which will also help the setting up of actions to ensure that as many families as possible can benefit from *Zelbinium*.
+Zelbinium is operational on smartphones (*Android* and *iOS*), but also on tablets and personal computers (*Windows*, *Mac*, *Linux*...), and, in general, on any device equipped with a modern web browser connected to the Internet (yes, even your connected TV!).
 
-Enjoy precious moments of complicity with your children by accompanying them as they discover *Zelbinium*. You can also help by spreading the word about *Zelbinium*, especially among the organizations that welcome your children.
+Enjoy precious moments of complicity with your children by accompanying them as they discover *Zelbinium*. You can also [help](../contribute) by spreading the word about *Zelbinium*, especially among the organizations that welcome your children.
 
 ![](./Complicity.jpeg)
 
-Zelbinium is operational on smartphones (*Android* and *iOS*), but also on tablets and personal computers (*Windows*, *Mac*, *Linux*...), and, in general, on any device equipped with a modern web browser connected to the Internet (yes, even your connected TV!).
-
-No application to install, no account to create: *Zelbinium* is the fastest and most effective way to protect your children from the harmful influence of social networks and video games.
+Social media and video game industry generate, each, more revenue than the film and music industries combined. To increase their profits, they deploy massive resources to make their users ever more dependent.
 
 <p>
   <center>
-    <strong>Against the harmful effects of video games and social media on our children:</strong>
+    <strong>To free our youth from the grip of the tech giants:/strong>
   </center>
 </p>
 

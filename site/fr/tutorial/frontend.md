@@ -41,7 +41,7 @@ En saisissant un saut de ligne, le curseur ira à la ligne, mais se positionnera
 <div data-type="sandbox" data-cursor="1,1">
 </div>
 
-La hauteur de l'encadré affiché dans la zone claire peut sembler petite, mais elle s'ajustera à son contenu, comme on le verra ci-dessous.
+Les dimensions de l'encadré affiché dans la zone claire s'ajusteront à son contenu, comme on le verra ci-dessous.
 
 Cliquer à nouveau sur *Afficher/masquer* pour gagner de la place en masquant l'éditeur et la prévisualisation.
 
@@ -59,7 +59,7 @@ Saisir dans l'éditeur le code en blanc, celui grisé étant déjà présent.
 
 <div data-type="sandbox" data-cursor="2,3">
 <fieldset>
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -95,7 +95,7 @@ Les champs de saisie de type texte permettent de spécifier un texte qui s'affic
 
 Voyons le résultat :
 
-<div data-type="sandbox" data-cursor="1,18">
+<div data-type="sandbox" data-cursor="1,27">
 <input placeholder="Prénom"></input>
 </div>
 
@@ -111,7 +111,7 @@ Grâce à l'attribut `value`, il est possible de préremplir un champs de saisie
 
 Et le résultat :
 
-<div data-type="sandbox" data-cursor="1,18">
+<div data-type="sandbox" data-cursor="1,20">
 <input value="World">
 </div>
 
@@ -133,7 +133,7 @@ Le libellé du bouton (ici *Envoyer*) doit être placé entre la balise ouvrante
 <div data-type="sandbox" data-cursor="3,3">
 <fieldset>
   <input placeholder="Prénom" value="World">
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -155,7 +155,7 @@ La balise `hr` est également une balise ne nécessitant pas de balise fermante.
 <fieldset>
   <input placeholder="Prénom" value="World">
   <button>Envoyer</button>
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -181,11 +181,69 @@ Comme la balise `output` est imbriqué dans la balise `fieldset`, son indentatio
   <input placeholder="Prénom" value="World">
   <button>Envoyer</button>
   <hr>
-  @
+  <!---->
 </fieldset>
 </div>
 
-On va maintenant utiliser ce code dans la page [*Traitement*](../backend); qui va aborder le codage des interactions entre l'utilisateur et l'interface.
+## Bonus (*CSS*)
+
+Le langage *HTML* est dédié à la description de la structure d'une interface par l'indication des éléments qui la compose et leur organisation. Pour contrôler l'apparence de cette interface (couleurs, forme des éléments, polices de caractères, animations…) on utilise un autre langage : *CSS*.
+
+*CSS* n'est pas abordé dans ce tutoriel, mais peut facilement être utilisé dans les applications *Zelbinium*, comme on pourra le constater dans les exemples présents dans la section [*Inspiration*](../../inspiration). Voici cependant un aperçu de ce que l'on peut faire avec *CSS* (le code propre à *CSS* est entre les balises *style*) :
+
+<div data-type="sandbox" data-cursor="6,1">
+<div class="big" >
+  <div class="little"></div>
+</div>
+<!---->
+<style>
+  .big {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: conic-gradient(red, orange, yellow, green, blue, violet, red);
+    animation: rotation 15s linear infinite;
+  }
+/**/
+  .little {
+    width: 50px;
+    height: 50px;
+    background:
+      linear-gradient(45deg, grey 25%, transparent 25%, transparent 75%, grey 75%),
+      linear-gradient(-45deg, grey 25%, transparent 25%, transparent 75%, grey 75%);
+    background-size: 15px 15px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    animation:
+      rotation 2s linear infinite,
+      excentricity 5s linear infinite;
+  }
+/**/
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg) rotateX(360deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+/**/
+  @keyframes excentricity {
+    from {
+      transform: rotate(0deg) translate(50px);
+    }
+    to {
+      transform: rotate(360deg) translate(50px) rotateY(360deg);
+    }
+  }
+  </style>
+</div>
+
+## Suite
+
+On va maintenant maintenant passer à la page [*Traitement*](../backend) coder les interactions entre l'utilisateur et l'interface élaborée dans cette page.
 
 <!-- Helpers -->
 

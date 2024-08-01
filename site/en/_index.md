@@ -5,11 +5,15 @@ title: "Redirection…"
 <script>
     window.location.href = "home/"
 </script>
-<noscript>
-    <div>
-To use <em>Zelbinium</em>, <em>JavaScript</em> must be activated!
-    </div>
 <div>
-    To continue browsing this site, go to the <a href="home">home page</a>.
+To use <em>Zelbinium</em>, <em>JavaScript</em> must be activated!
 </div>
-</noscript>
+<div>
+    <span style="white-space: nowrap">To continue browsing this site,</span>
+    <span> </span>
+    <span style="white-space: nowrap">use the menu or go to the <a href="home">home page</a>.</span>
+</div>
+
+<!-- Helpers -->
+
+<link rel="stylesheet" type="text/css" href="/lang.css"/>

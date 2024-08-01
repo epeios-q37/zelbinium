@@ -5,6 +5,14 @@ weight: 2
 bookCollapseSection: false
 ---
 
+<!--
+Si URL modifiée, modifier :
+- modifier (ancres sur les différentes section du partage d'application)
+  - 3fqr9w7s,
+  - jjhz4c94,
+  - c49crxbw ;
+-->
+
 # *Action !*
 
 Dans cette section du site, on verra comment réaliser différentes actions relatives à une application et son code source directement à partir d'un navigateur web. Le point de départ sera un encart comme celui-ci :
@@ -40,8 +48,14 @@ Pour lancer l'application, il suffit de cliquer sur le bouton *Run*. Cela va mas
 </details>
 
 ## Partager l’accès à une application
+<!--
+Voir commentaire en tête de fichier si titre modifié.
+-->
 
 ### Avec un code QR
+<!--
+Voir commentaire en tête de fichier si titre modifié.
+-->
 
 Voyons comment partager l’accès à une application pour que plusieurs personnes puissent l'utiliser en même temps, chacun avec son propre appareil (smartphone, tablette, ordinateur personnel…).
 
@@ -66,6 +80,9 @@ On aperçoit ici un [code QR](https://fr.wikipedia.org/wiki/Code_QR), pointé pa
 Pour pouvoir converser avec quelqu'un à proximité, il suffit de lui faire scanner le code QR avec son appareil (smartphone, tablette…). Cela lui donnera accès à l'application. Vous pourrez ainsi échanger des messages, chacun avec son appareil.
 
 ### Avec un lien
+<!--
+Voir commentaire en tête de fichier si titre modifié.
+-->
 
 Pour échanger des messages avec une personne qui ne peut pas scanner le code QR, soit parce qu'elle n'est pas à proximité, soit parce que ce n'est pas possible ou trop compliqué avec son appareil, il est quand même possible de lui donner accès à l'application.
 
@@ -73,7 +90,7 @@ Pour échanger des messages avec une personne qui ne peut pas scanner le code QR
 
 Pour ce faire, il suffit de cliquer sur l'icône pointée par la flèche. S'offrira alors la possibilité de partager l’accès à l'application d'une manière similaire au partage d'une vidéo, d'une photo, d'un lien…
 
-Il est possible que certains appareils, ou certains navigateurs, n'offrent pas cette possibilité de partage.S'affichera alors ceci : 
+Il est possible que certains appareils, ou certains navigateurs, n'offrent pas cette possibilité de partage. S'affichera alors ceci : 
 
 ![](./FooterCopy.png)
 

@@ -555,7 +555,6 @@ La section [*Créer*](../../create), elle, est dédiée à la création de ses p
 
 <!-- Helpers -->
 
-
 <link rel="stylesheet" type="text/css" href="/backend.css"/>
 <script src="/backend.js"></script>
 

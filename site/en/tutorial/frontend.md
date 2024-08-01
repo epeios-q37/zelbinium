@@ -41,7 +41,7 @@ When you enter a line break, the cursor will go to the line, but will also be se
 <div data-type="sandbox" data-cursor="1,1">
 </div>
 
-The height of the box displayed in the clear area may seem small, but it will adjust to its content, as we'll see below.
+The dimensions of the box displayed in the clear area will be adjusted to its content, as shown below.
 
 Click *Show/Hide* again to save space by hiding the editor and the preview.
 
@@ -59,7 +59,7 @@ Enter the white code in the editor, as the greyed-out code is already present.
 
 <div data-type="sandbox" data-cursor="2,3">
 <fieldset>
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -129,7 +129,7 @@ The button label (here *Send*) must be placed between the opening and closing ta
 <div data-type="sandbox" data-cursor="3,3">
 <fieldset>
   <input placeholder="Name" value="World">
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -151,7 +151,7 @@ The `hr` tag is also a tag that does not require a closing tag.
 <fieldset>
   <input placeholder="Name" value="World">
   <button>Send</button>
-  @
+  <!---->
 </fieldset>
 </div>
 
@@ -177,11 +177,69 @@ As the `output` tag is nested within the `fieldset` tag, its indentation is doub
   <input placeholder="Name" value="World">
   <button>Send</button>
   <hr>
-  @
+  <!---->
 </fieldset>
 </div>
 
-We're now going to use this code in the [*Processing*](../backend) page; which will deal with the coding of interactions between the user and the interface.
+## Bonus (*CSS*)
+
+*HTML* is dedicated to describing the structure of an interface by indicating the elements that make it up and their organization. To control the appearance of this interface (colors, shape of elements, fonts, animations...) we use another language: *CSS*.
+
+*CSS* is not covered in this tutorial, but can easily be used in *Zelbinium* applications, as can be seen from the examples in the [*Inspiration*](../../inspiration) section. However, here's an overview of what you can do with *CSS* (*CSS*-specific code is enclosed between *style* tags)
+
+<div data-type="sandbox" data-cursor="6,1">
+<div class="big" >
+  <div class="little"></div>
+</div>
+<!---->
+<style>
+  .big {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background: conic-gradient(red, orange, yellow, green, blue, violet, red);
+    animation: rotation 15s linear infinite;
+  }
+/**/
+  .little {
+    width: 50px;
+    height: 50px;
+    background:
+      linear-gradient(45deg, grey 25%, transparent 25%, transparent 75%, grey 75%),
+      linear-gradient(-45deg, grey 25%, transparent 25%, transparent 75%, grey 75%);
+    background-size: 15px 15px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    animation:
+      rotation 2s linear infinite,
+      excentricity 5s linear infinite;
+  }
+/**/
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg) rotateX(360deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+/**/
+  @keyframes excentricity {
+    from {
+      transform: rotate(0deg) translate(50px);
+    }
+    to {
+      transform: rotate(360deg) translate(50px) rotateY(360deg);
+    }
+  }
+  </style>
+</div>
+
+## Next
+
+On va maintenant maintenant passer à la page [*Traitement*](../backend) coder les interactions entre l'utilisateur et l'interface élaborée dans cette page.
 
 <!-- Helpers -->
 

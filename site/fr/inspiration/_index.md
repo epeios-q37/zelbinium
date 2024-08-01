@@ -96,7 +96,6 @@ Le premier joueur à marquer 100 points ou plus gagne.
 
 <!-- Helpers -->
 
-
 <link rel="stylesheet" type="text/css" href="/inspiration.css"/>
 <script src="/inspiration.js"></script>
 
