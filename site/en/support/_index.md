@@ -98,7 +98,7 @@ Social media and video game industry generate, each, more revenue than the film 
 
 <p>
   <center>
-    <strong>To free our youth from the grip of the tech giants:/strong>
+    <strong>To free our youth from the grip of the tech giants:</strong>
   </center>
 </p>
 
