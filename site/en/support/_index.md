@@ -20,7 +20,7 @@ aliases: ["/en/donate"]
 
 -->
 
-By encouraging them to use their imagination to create their own content, and by making it easy for them to share this content with their pals, *Zelbinium* preserves your children from the addictions associated with smartphone use, while fostering an environment that prevents the risk of harassment.
+By getting them to use their imagination to create their own contents and share them with their peers, *Zelbinium* makes smartphones less addictive for our kids and reduces the risk of bullying.
 
 <br/>
 

@@ -17,7 +17,7 @@ aliases: ["/fr/donate"]
 <br/>
 -->
 
-En les incitant à utiliser leur imagination pour créer leurs propres contenus, et en facilitant le partage de ces contenus avec leurs camarades, *Zelbinium* préserve vos enfants des addictions liées à l'utilisation de leur smartphone tout en favorisant l'éclosion d'un environnement propre à prévenir les risques de harcèlement.
+En les amenant à utiliser leur imagination pour créer leurs propres contenus et à les partager avec leurs camarades, *Zelbinium* rend le smartphone moins addictif pour nos enfants et réduit les risques de harcèlement.
 
 <br/>
 
