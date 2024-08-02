@@ -11,25 +11,11 @@ aliases: ["/en/donate"]
 
 # Your support makes a difference
 
-<!--
-<center>
-    <img style="box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; border-radius: 15px;" src="CrowdfundingAnimation.gif" alt="Logo *Zelbinium*"/>
-</center>
+By getting them to use it to create their own contents and share them with their peers, *Zelbinium* makes the smartphone less addictive for our children and limits the risk of harassment.
+
+<!-- Si préambule modifié, modifier section 'Zelbinium' sur site 'atlastk.org' ainsi que le 'README.md' du repo git 'zelbinium'. -->
 
 <br/>
-
--->
-
-By getting them to use their imagination to create their own contents and share them with their peers, *Zelbinium* makes smartphones less addictive for our kids and reduces the risk of bullying.
-
-<br/>
-
-<style>
-  /* Retrait règle thème Hugo. */
-  .markdown table tr:nth-child(2n) {
-	  background: initial;
-  }
-</style>
 
 <span id="support"/>
 

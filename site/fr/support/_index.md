@@ -11,13 +11,9 @@ aliases: ["/fr/donate"]
 
 # Votre soutien fait la différence
 
-<!--
-![](./CrowdfundingAnimation.gif)
+En les amenant à l'utiliser pour créer leurs propres contenus et les partager avec leurs camarades, *Zelbinium* rend le smartphone moins addictif pour nos enfants et limite le risque de harcèlement.
 
-<br/>
--->
-
-En les amenant à utiliser leur imagination pour créer leurs propres contenus et à les partager avec leurs camarades, *Zelbinium* rend le smartphone moins addictif pour nos enfants et réduit les risques de harcèlement.
+<!-- Si préambule modifié, modifier section 'Zelbinium' sur site 'Q37'. -->
 
 <br/>
 
