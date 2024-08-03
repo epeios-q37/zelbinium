@@ -18,7 +18,7 @@ No application to install, no account to create; whether from a smartphone, tabl
 
 ---
 
-The *site* folder contains the pages of the *Zelbinium* website. License: [*CC-BY-SA*](https://github.com/epeios-q37/zelbinium/blob/main/code/LICENSE) ([source](https://creativecommons.org/licenses/by-sa/4.0/)).
+The *site* folder contains the pages of the *Zelbinium* website. License: [*CC-BY-SA*](https://github.com/epeios-q37/zelbinium/raw/main/site/LICENSE) ([source](https://creativecommons.org/licenses/by-sa/4.0/)).
 
-The *code* folder contains the source code of the applications on the *Zelbinium* web site. License: [*MIT*](https://github.com/epeios-q37/zelbinium/blob/main/site/LICENSE) ([source](https://opensource.org/license/mit)).
+The *code* folder contains the source code of the applications on the *Zelbinium* web site. License: [*MIT*](https://github.com/epeios-q37/zelbinium/raw/main/code/LICENSE) ([source](https://opensource.org/license/mit)).
 
