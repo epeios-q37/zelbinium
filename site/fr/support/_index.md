@@ -85,7 +85,7 @@ Les medias sociaux et l'industrie du jeu vidéo génèrent, chacun, plus de reve
 
 <p>
   <center>
-    <strong>Pour libérer notre jeunesse de l'emprise des géants de la tech :</strong>
+    <strong>Pour nous affranchir des géants du numérique :</strong>
   </center>
 </p>
 
