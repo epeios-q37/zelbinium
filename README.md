@@ -1,6 +1,8 @@
 # *Zelbinium*
 
-**To free our youth from the grip of the tech giants!**
+***To free us from the digital giants!***
+
+The most widespread applications on our smartphones are, for most of them, the product of multinationals whose obsession for profits leads them to expose us to risky situations to which our children are particularly vulnerable.
 
 By getting them to use it to create their own contents and share them with their peers, *Zelbinium* makes the smartphone less addictive for our children and limits the risk of harassment.
 
