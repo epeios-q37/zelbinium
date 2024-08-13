@@ -14,6 +14,8 @@ L'intégralité de ce site et du code source des applications qui y sont propos�
 
 Grâce aux fonctionnalités inédites de *Zelbinium*, vos enfants pourront facilement partager avec vous leurs progrès, faisant du smartphone, non plus une source de tensions, mais une opportunité pour vous rapprocher. Encouragez vos enfants ou, mieux encore, assistez-les dans leurs nouvelles activités. Plus vous vous impliquerez, plus *Zelbinium* sera bénéfique à vos enfants, ce dont bénéficiera également *Zelbinium*.
 
+Pour faire connaître ce projet autour de vous : <https://q37.info/zelbinium>.
+
 <!-- Helpers -->
 
 

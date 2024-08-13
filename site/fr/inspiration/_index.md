@@ -75,7 +75,7 @@ Le jeu du [*blackjack*](https://fr.wikipedia.org/wiki/Blackjack_(jeu)).
 
 -->
 
-## *Pig game* (`PigGame`, avec son)
+## *Pig game* (`PigGame`) (avec son)
 
 Le célèbre jeu de dés.
 

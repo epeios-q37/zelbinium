@@ -14,6 +14,8 @@ This entire site and the source code for the applications it contains are availa
 
 Thanks to *Zelbinium*'s innovative features, your children will be able to easily share their progress with you, making the smartphone no longer a source of tension, but an opportunity to bring you closer together. Encourage your children, or better still, help them with their new activities. The more you get involved, the more *Zelbinium* will benefit your children, and the more it will benefit *Zelbinium*.
 
+To spread the word about this project: <https://atlastk.org/zelbinium>.
+
 <!-- Helpers -->
 
 
