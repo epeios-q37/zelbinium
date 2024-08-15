@@ -2,6 +2,7 @@
 title: "JS Bin"
 menu: "JS Bin"
 weight: 3
+draft: true
 ---
 
 # *JS Bin*

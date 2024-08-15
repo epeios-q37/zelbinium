@@ -9,13 +9,12 @@ bookCollapseSection: true
 
 - [*HTML*/*CSS*](./html): languages used in *Zelbinium* to create graphical interfaces;
 - [*Python*](./python): the programming language used in *Zelbinium*;
-- [*JSBin*](./jsbin/): on-the-fly rendering in a web browser of *HTML* and *CSS* code;
 - [*Brython*](./brython) : *Python* interpreter in the web browser ;
-- [*Replit*](./replit): *Python* in the web browser;
+- [*Replit*](./replit): *Python* [*IDE*](https://en.wikipedia.org/wiki/Integrated_development_environment) (and others) in the web browser;
 - [*Termux*](./termux): *Python* on *Android*;
 - [*iSH*](./ish): *Python* on *iOS* and derivatives (for devices like *iPhone*, *iPad*…);
 - [*Software forges*](./forges): host the source code of your applications in the cloud;
-- [*Atlas* toolkit](./atk): a very light toolkit to easily add a GUI to your programs and bring them online.
+- [*Atlas* toolkit](./atk): very light toolkit to easily add a GUI to your programs and bring them online.
 
 *Replit* can also be used on a [personal computer](https://en.wikipedia.org/wiki/Personal_computer), so you can work on the same application both with your smartphone or tablet, and with a computer provided by some establishments. In the latter case, make sure that your browser does not store your *Replit* account login details, and that you log out of your *Replit* account before leaving your computer.
 
