@@ -2,21 +2,23 @@
 
 ***To free us from the digital giants!***
 
-The most widespread applications on our smartphones are, for most of them, the product of multinationals whose obsession for profits leads them to expose us to risky situations to which our children are particularly vulnerable.
+Many of the applications massively used on our smartphones all too often put our children at risk, because they are produced by multinationals whose race for profits leads them to neglect the well-being of their users.
 
-By getting them to use it to create their own contents and share them with their peers, *Zelbinium* makes the smartphone less addictive for our children and limits the risk of harassment.
+By getting them to use their smartphones to create their own contents and share them with their peers, *Zelbinium* leads our children to spend less time on these applications, to the benefit of less harmful activities.
 
-*Python* is a versatile and highly accessible language, whose outstanding success has led to the emergence of technologies that enable it to be used in applications running directly in a web browser.
+---
 
-*Brython*, one of these technologies, offers our teenagers the opportunity to create their own applications, for and with their smartphones, diverting them from social media and video games and their attendant addictions.
+*Python* is a versatile computer language that is highly accessible to beginners, and is widely used in introductory programming courses, as well as for the development of applications for professional use.
 
-*Zelbinium* extends *Brython*'s capabilities to enable them to easily share their creations, leading them to forge bonds with their buddies that reduce the risk of harassment.
+*Brython* lets you run *Python* code in a web browser, so our teenagers can use their smartphones to create their own applications, instead of sticking to the highly addictive social media and video games.
 
-By combining in an unprecedented way the two highly popular and well-documented languages that are *Python* and *HTML*, *Zelbinium* facilitates the creation of truly connected applications that our children will be proud to share with their friends and family.
+*Zelbinium* is designed to make it easy for our children to share the applications they've created with *Brython*, and thus to forge bonds with their peers that considerably reduce the risk of harassment.
 
-All too often a source of tension, the smartphone is transformed by *Zelbinium* into a wonderful opportunity for parents to share precious moments of complicity with their children.
+By combining in a unprecedented way *Python* and *HTML*, two very popular and well documented languages, *Zelbinium* enables them to create real connected applications that will make them proud, thus prompting them to share these applications with their relatives.
 
-No application to install, no account to create; whether from a smartphone, tablet or personal computer, *Zelbinium* is directly accessible at <https://zelbinium.q37.info>!
+All too often a source of tension, the smartphone is transformed, thanks to *Zelbinium*, into a wonderful opportunity for parents to enjoy precious moments of complicity with their children.
+
+No application to install, no account to create; whether from a smartphone, tablet or personal computer, have direct access to *Zelbinium* by going to <https://zelbinium.q37.info>!
 
 ---
 

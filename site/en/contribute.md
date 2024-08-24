@@ -12,7 +12,7 @@ Spread the word about this project to your own children and to children you know
 
 This entire site and the source code for the applications it contains are available on the https://github.com/epeios-q37/zelbinium repository, through which you can suggest improvements or new content. You can also contact the author of this project via the [contact](../contact) page.
 
-Thanks to *Zelbinium*'s innovative features, your children will be able to easily share their progress with you, making the smartphone no longer a source of tension, but an opportunity to bring you closer together. Encourage your children, or better still, help them with their new activities. The more you get involved, the more *Zelbinium* will benefit your children, and the more it will benefit *Zelbinium*.
+Thanks to *Zelbinium*'s innovative features, your children will be able to easily share their progress with you, making the smartphone no longer a source of tension, but an opportunity to bring you closer together. Encourage your children, or better still, help them with their new activities. TThe more you get involved, the more *Zelbinium* will benefit your children, something that will also be good for *Zelbinium*.
 
 To spread the word about this project: <https://atlastk.org/zelbinium>.
 
