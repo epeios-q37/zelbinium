@@ -239,7 +239,7 @@ As the `output` tag is nested within the `fieldset` tag, its indentation is doub
 
 ## Next
 
-On va maintenant maintenant passer à la page [*Traitement*](../backend) coder les interactions entre l'utilisateur et l'interface élaborée dans cette page.
+We'll now move on to the [*Processing*](../backend) page, where we'll code the interactions between the user and the interface developed on this page.
 
 <!-- Helpers -->
 
