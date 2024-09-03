@@ -103,7 +103,7 @@ You'll notice that, as soon as you start entering text in the input area, the hi
 
 ### Default value (`value=“...”`)
 
-Thanks to the `value` attribute, it's possible to pre-fill a text input field, which can facilitate application debugging. 
+Thanks to the `value` attribute, it's possible to pre-fill a text input field, which can facilitate application debugging.
 
 And the result:
 
@@ -242,7 +242,6 @@ As the `output` tag is nested within the `fieldset` tag, its indentation is doub
 We'll now move on to the [*Processing*](../backend) page, where we'll code the interactions between the user and the interface developed on this page.
 
 <!-- Helpers -->
-
 
 <link rel="stylesheet" type="text/css" href="/frontend.css"/>
 <script src="/frontend.js"></script>
